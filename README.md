@@ -1,8 +1,6 @@
 # test_repo
 ```diff
 
-this is a test repository
-
 simple minecraft project i made within 1 week (not true)
 
 -- LIBRARIES --
