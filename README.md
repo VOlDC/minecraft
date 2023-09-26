@@ -60,9 +60,3 @@ glad:
 ! PerlinNoise.hpp taken from: https://github.com/Reputeless/PerlinNoise
 
 other important stuff are taken from: learnopengl.com, which is probally the best way, i have learned some opengl, and it also includes some other nice stuff
-
-! -- GAME --
-
-now the basically whole code this is it:
-
-[Link to Video](https://github.com/VOlDC/test_repo/blob/main/video.avi)
