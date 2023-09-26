@@ -61,3 +61,14 @@ glad:
 ! PerlinNoise.hpp taken from: https://github.com/Reputeless/PerlinNoise
 
 other important stuff are taken from: learnopengl.com, which is probally the best way, i have learned some opengl, and it also includes some other nice stuff
+
+
+- -- UPDATES IN THE FUTURE --
+
+well, some more updates im gonna add are theese:
+
++ player gravity, collisions
++ buttons
++ perlin noise terrain
+
++ more updates
