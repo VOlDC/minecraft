@@ -1,7 +1,8 @@
-# test_repo
 ```diff
 
 simple minecraft project i made within 1 week (not true)
+
+! - quick disclaimer: images must be a 512x512 size
 
 -- LIBRARIES --
 
