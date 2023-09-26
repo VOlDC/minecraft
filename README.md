@@ -72,3 +72,9 @@ well, some more updates im gonna add are theese:
 + perlin noise terrain
 
 + more updates
+
+- -- WHAT HAS T BE FIXED --
+
++ the text has to be fixed
+
+! thats pretty much it
