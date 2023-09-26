@@ -162,7 +162,7 @@ float vertices[] = {
 };
 
 
-
+// this doesnt work currently
 void tree(Shader shader, unsigned int wood_texture, unsigned int leaf_texture, unsigned int x, unsigned int y, unsigned int z)
 {
     for (unsigned int height = y; height < y+3.0f; height++)
